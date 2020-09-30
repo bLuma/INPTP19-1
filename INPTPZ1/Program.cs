@@ -23,6 +23,7 @@ namespace INPTPZ1
         static void Main(string[] args)
         {
             // TODO: add parameters from args?
+		// No to fakt ne
             Bitmap bmp = new Bitmap(300, 300);
             double xmin = -1.5;
             double xmax = 1.5;
